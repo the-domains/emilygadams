@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[emilygadams]]></title>
         <description><![CDATA[emilygadams]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/emilygadams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 17:12:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 17:16:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emilygadams/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Writer. Producer. Creator. </p>]]></description>
-            <link>undefineda4837615-2236-4b54-9b3b-227f0458a56b/index.html</link>
+            <link>https://thegrid.ai/emilygadams/a4837615-2236-4b54-9b3b-227f0458a56b/index.html</link>
             <guid isPermaLink="false">a4837615-2236-4b54-9b3b-227f0458a56b</guid>
-            <pubDate>Wed, 24 Feb 2016 17:12:29 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 17:16:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
